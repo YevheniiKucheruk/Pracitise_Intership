@@ -1,0 +1,62 @@
+.serve1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    margin: 0 auto;
+    width: 109px;
+    height: 138px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.serve2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    margin: 0 auto;
+    width: 109px;
+    height: 138px;
+
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.serve3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    margin: 0 auto;
+    width: 109px;
+    height: 138px;
+
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+.serve4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    margin: 0 auto;
+    width: 109px;
+    height: 138px;
+
+
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}

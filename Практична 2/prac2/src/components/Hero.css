@@ -1,0 +1,51 @@
+.hero_text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 475px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
+
+.hero_but {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 40px;
+    gap: 8px;
+    width: 230px;
+    height: 56px;
+    border: 2px solid #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 1;
+}
+
+.hero_img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 418px;
+    height: 399px;
+    right: 10px;
+    top: 133px;
+    border: 2px solid #FFFFFF;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    z-index: 2;
+}

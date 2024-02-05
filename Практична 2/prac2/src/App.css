@@ -1,0 +1,153 @@
+body{
+  background: rgba(228, 242, 251, 1);
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px 80px;
+  gap: 47px;
+  isolation: isolate;
+  position: absolute;
+  width: 868px;
+  height:778px;
+  left: 375px;
+  top: 118px;
+  background: #00042D;
+}
+.left_sidebar{
+  position: absolute;
+  width: 46px;
+  height: 1005px;
+  left: 301px;
+  top: 118px;
+}
+.about{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 80px;
+  gap: 40px;
+  
+  position: absolute;
+  width: 868px;
+  height: 640px;
+  left: 375px;
+  top: 896px;
+  
+  background-color: #FFFFFF;
+}
+.services{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 80px;
+  gap: 8px;
+
+  position: absolute;
+  width: 868px;
+  height: 329px;
+  left: 375px;
+  top: 1600px;
+
+  background: #00042D;
+}
+.exp{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 78px 80px;
+  gap: 40px;
+  
+  position: absolute;
+  width: 868px;
+  height: 952px;
+  left: 375px;
+  top: 1865px;
+  
+  background: #FFFFFF;
+}
+.portfolio{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 78px 80px;
+  gap: 40px;
+  position: absolute;
+  width: 868px;
+  height: 1348px;
+  left: 375px;
+  top: 2950px;
+  background: #00042D;
+}
+.education{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 78px 80px;
+  gap: 115px;
+
+  position: absolute;
+  width: 868px;
+  height: 1207px;
+  left: 375px;
+  top: 4400px;
+
+  background: #FFFFFF;
+}
+.skills{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 70px 100px;
+  gap: 8px;
+
+  position: absolute;
+  width: 828px;
+  height: 702px;
+  left: 375px;
+  top: 5763px;
+
+  background: #00042D;
+}
+
+.cover_letter{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 106px 80px;
+  gap: 8px;
+
+  position: absolute;
+  width: 868px;
+  height: 914px;
+  left: 375px;
+  top: 6605px;
+
+  background: #FFFFFF;
+}
+.contact{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 106px 80px;
+  gap: 8px;
+  position: absolute;
+  width: 868px;
+  height: 1064px;
+  left: 375px;
+  top: 7730px;
+
+  background: #00042D;
+}
+.footer{
+  position: absolute;
+  width: 1028px;
+  height: 160px;
+  left: 375px;
+  top: 9006px;
+
+  background: #FFFFFF;
+}

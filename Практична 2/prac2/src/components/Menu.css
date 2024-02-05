@@ -1,0 +1,21 @@
+.rec1_1{
+    position: absolute;
+    width: 25px;
+    height: 0px;
+    top: 118px;
+    border: 4px solid #052123;
+}
+.rec1_2{
+    position: absolute;
+    width: 16.25px;
+    height: 0px;
+    top: 128px;
+    border: 4px solid #052123;
+}
+.rec1_3{
+    position: absolute;
+    width: 30px;
+    height: 0px;
+    top: 138px;
+    border: 4px solid #052123;
+}

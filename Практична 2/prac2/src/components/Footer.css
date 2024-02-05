@@ -1,0 +1,27 @@
+.copyright{
+    position: absolute;
+    width: 443px;
+    height: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #00042D;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 26px;
+
+    position: absolute;
+    width: 152px;
+    height: 17px;
+    margin-top: 60px;
+    margin-left: 90px;
+}
