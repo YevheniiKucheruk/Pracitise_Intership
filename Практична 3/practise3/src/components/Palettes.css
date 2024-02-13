@@ -1,0 +1,20 @@
+.Palettes{
+    display: grid;
+    grid-template-columns: 30vw 30vw 30vw;
+    justify-content: space-evenly;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+
+}
+.Palette{
+    display: flex;
+    border: 2px solid black;
+    height:20vh;
+    margin: 10px;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    cursor:pointer;
+    
+}

@@ -1,0 +1,22 @@
+.Footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border-top: 3px solid black;
+    height: 20vh;
+    background-color: lightcoral;
+}
+.Desc_foo{
+    font-size: 5vh;
+    color:white;
+    font:300;
+    width: 40%;
+}
+.Author_foo{
+    font-size: 5vh;
+    color:white;
+    font:300;
+    width: 40%;
+    font-style: italic;
+}

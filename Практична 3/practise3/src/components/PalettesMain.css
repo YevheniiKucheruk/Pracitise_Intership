@@ -1,0 +1,44 @@
+.Palettes1{
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw 20vw;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+
+}
+.Palette1{
+    position: relative;
+    display: flex;
+    border: 1px solid black;
+    height:15vh;
+    margin: 0,1px;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    cursor:pointer;
+    color: white;
+}
+.Copybox{
+    animation-name:Slow;
+    animation-duration: 0.5s;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 2px solid white;
+    transform: translate(-50%, -50%);
+    padding: 5%;
+    opacity: 1;
+}
+
+@keyframes Slow {
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
+    }
+}
